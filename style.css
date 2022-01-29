@@ -53,7 +53,8 @@ section {
 }
 
 div.row p {
-  line-height: 1.8;
+  line-height: 1.5;
+  overflow: scroll;
 }
 
 section p a {
